@@ -1,0 +1,14 @@
+.container{
+  text-align: center;
+}
+.enter{
+  padding: 15px 25px;
+  background-color: lawngreen;
+  border-radius: 15px;
+}
+.numero{
+  padding: 15px 25px;
+}
+body{
+  background-color: mediumpurple;
+}
